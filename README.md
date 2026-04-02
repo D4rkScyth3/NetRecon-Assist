@@ -350,32 +350,6 @@ pip install tabulate
 
 ---
 
-## 📖 Learning Resources
-
-- **Networking Basics**: [Khan Academy](https://www.khanacademy.org/)
-- **TCP/IP Explained**: [Cisco Networking](https://www.cisco.com/)
-- **Security Best Practices**: [OWASP](https://owasp.org/)
-- **CVE Database**: [NVD.NIST.GOV](https://nvd.nist.gov/)
-
----
-
-## 🤝 Contributing
-
-Want to improve this project?
-
-1. Add more CVEs to `cve_db.json`
-2. Add more port services to `PORT_SERVICES`
-3. Improve beginner guidance text
-4. Report bugs or suggest features
-
----
-
-## 📄 License
-
-This is an educational project. Use responsibly and ethically.
-
----
-
 ## 🎓 Educational Purpose
 
 This tool is created for learning about:
@@ -387,18 +361,3 @@ This tool is created for learning about:
 - Defensive security measures
 
 **Remember**: Security is not about offense, it's about defense! 🛡️
-
----
-
-## 📞 Questions?
-
-- Read the guidance in the tool output
-- Check this README
-- Study the code comments
-- Research the CVE IDs mentioned
-
----
-
-**Last Updated**: February 2, 2026  
-**Version**: 1.0  
-**Status**: Educational Tool ✅
